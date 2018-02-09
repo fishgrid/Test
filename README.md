@@ -1,6 +1,6 @@
 # My Test Git
 
-New added element to the <index.html> file.
+New added element to the <code>index.html</code> file.
 
 ## Second Description
 
